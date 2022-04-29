@@ -1,6 +1,5 @@
-from tabnanny import verbose
 from django.db import models
-
+from backend.apps.accounts.models import User
 
 # Create your models here.
 
